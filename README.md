@@ -1,7 +1,7 @@
 # Javascript Cotizador de Criptomonedas
 Cotizador de criptomonedas utilizando Javascript, practica del curso [JavaScript Moderno Guía Definitiva Construye +15 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
  
-## [LIVE DEMO / PRUEBALO AQUÍ](https://pixapic.vercel.app/) ✔
+## [LIVE DEMO / PRUEBALO AQUÍ](https://eduardoguette.github.io/cotizador-criptomonedas/) ✔
 
 _Cosas hechas:_
 
